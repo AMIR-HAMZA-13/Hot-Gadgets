@@ -1,0 +1,47 @@
+.container{
+    margin-top: 30px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
+.carousel-item{
+    padding-left: 30px;
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.margin{
+    padding-top: 70px;
+}
+.card{
+    text-align: center;
+    margin-right: 20px;
+    box-shadow: 8px 8px 12px gray;
+}
+.card:hover, .catagories-box:hover{
+    color: indigo;
+    box-shadow: 10px 10px 14px rosybrown;
+}
+.card-footer{
+    border: none;
+    background-color:white;
+}
+#decoration{
+    text-decoration: underline 8px solid rgb(252, 185, 0);
+}
+.catagories-box{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(247, 243, 232);
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 30px;
+    margin-right: 15px;
+    margin-top: 15px;
+    box-shadow: 8px 8px 12px gray;
+}
+#bags{
+    padding-top: 70px;
+    margin-top: 180px
+}
